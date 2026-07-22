@@ -6,14 +6,14 @@
   <img src="logo.png" width="170" alt="Logo">
 </p>
 
-<h1 align="center">Letícia Souza</h1>
+<h1 align="center">👋 Olá, eu sou Letícia Souza</h1>
 
 <h3 align="center">
-Data Analyst • Power BI • SQL • Python
+Data Analyst | Power BI | SQL | Python
 </h3>
 
 <p align="center">
-Transformando dados em decisões inteligentes.
+📊 Business Intelligence • Dashboards • Data Visualization
 </p>
 
 ---
@@ -51,13 +51,13 @@ Meu objetivo é transformar dados em informações que apoiem a tomada de decis�
 
 - 🏭 Dashboard de Auditoria Industrial
 - 📈 Dashboard Comercial
-- 👥 Dashboard RH
+- 👥 Dashboard Follow UP
 - 📦 Dashboard Logístico
-- 💰 Dashboard Financeiro
+- 💰 Dashboard Produção x Vendas
 
 ---
 
 # 📫 Contato
 
-- 💼 LinkedIn *(adicionar depois)*
-- 📧 E-mail *(adicionar depois)*
+- 💼 LinkedIn www.linkedin.com/in/leticia-souza-a56169281
+- 📧 E-mail leticiasouzasouza16@gmail.com
