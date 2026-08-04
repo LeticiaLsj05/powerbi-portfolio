@@ -355,11 +355,13 @@ nav a:hover{
 
 .projeto p{
 
-    padding:0 20px 25px;
+    padding:0 20px;
 
     color:#d3d3d3;
 
     line-height:28px;
+
+    min-height:100px;
 
 }
 
@@ -404,5 +406,227 @@ nav a:hover{
         flex-wrap:wrap;
 
     }
+
+}
+
+    /* ==========================
+   EXPERIÊNCIA
+========================== */
+
+.experiencia{
+
+    max-width:1300px;
+
+    margin:40px auto;
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr;
+
+    gap:30px;
+
+}
+
+.job{
+
+    border-left:3px solid #2ed7c9;
+
+    padding-left:20px;
+
+    margin-bottom:35px;
+
+}
+
+.job:last-child{
+
+    margin-bottom:0;
+
+}
+
+.job .ano{
+
+    color:#2ed7c9;
+
+    font-weight:bold;
+
+}
+
+.job h3{
+
+    margin-top:10px;
+
+    font-size:24px;
+
+}
+
+.job h4{
+
+    color:#b8c7d6;
+
+    margin:6px 0 12px;
+
+}
+
+.job p{
+
+    line-height:28px;
+
+}
+
+
+/* ==========================
+   TIMELINE
+========================== */
+
+.timeline{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:flex-start;
+
+    position:relative;
+
+    margin-top:50px;
+
+}
+
+.timeline::before{
+
+    content:"";
+
+    position:absolute;
+
+    top:22px;
+
+    left:0;
+
+    right:0;
+
+    height:4px;
+
+    background:#1f3345;
+
+}
+
+.evento{
+
+    position:relative;
+
+    width:23%;
+
+    text-align:center;
+
+    z-index:2;
+
+}
+
+.circulo{
+
+    width:28px;
+
+    height:28px;
+
+    border-radius:50%;
+
+    background:#2ed7c9;
+
+    margin:0 auto 15px;
+
+    border:5px solid #071018;
+
+}
+
+.futuro{
+
+    background:#00b7ff;
+
+}
+
+.evento h3{
+
+    color:#2ed7c9;
+
+    margin-bottom:8px;
+
+}
+
+.evento strong{
+
+    display:block;
+
+    margin-bottom:8px;
+
+}
+
+.evento p{
+
+    color:#b9c7d5;
+
+    font-size:14px;
+
+}
+
+.btn-projeto{
+
+    display:inline-block;
+
+    margin:25px auto 30px;
+
+    padding:14px 30px;
+
+    border:2px solid #2ed7c9;
+
+    border-radius:40px;
+
+    color:#2ed7c9;
+
+    text-decoration:none;
+
+
+}
+
+.btn-projeto:hover{
+
+    background:#2ed7c9;
+
+    color:#071018;
+
+}
+
+/* ==========================
+   BOTÕES DAS SUBPÁGINAS
+========================== */
+
+.botoes-projeto{
+
+    max-width:1300px;
+
+    margin:50px auto;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:25px;
+
+    flex-wrap:wrap;
+
+}
+
+.botao{
+
+    padding:16px 34px;
+
+    border-radius:50px;
+
+    text-decoration:none;
+
+    font-size:16px;
+
+    font-weight:600;
+
+    transition:.35s;
 
 }
