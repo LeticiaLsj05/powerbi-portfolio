@@ -43,6 +43,10 @@ Dashboard para monitoramento de produtos de maior giro e apoio às decisões de 
 - Excel
 - Power Query
 - DAX
+- Access
+- Modelo Semântico
+- DataSheet
+- Scheduled Refresh)
 
 ---
 
