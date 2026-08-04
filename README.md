@@ -54,7 +54,7 @@ Dashboard para monitoramento de produtos de maior giro e apoio às decisões de 
 
 👉 **GitHub Pages**
 
-(cole aqui o link quando publicar)
+https://leticialsj05.github.io/powerbi-portfolio/
 
 ---
 
